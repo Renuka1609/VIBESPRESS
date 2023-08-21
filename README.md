@@ -1,4 +1,5 @@
-# VNEWS
+# VIBESPRESS
+
 
 Welcome to VNEWS! This dynamic web platform is designed to keep users informed about recent affairs, innovations, and rule modifications. Users can access real-time updates and filter news based on categories such as Entertainment, Sports, and Health.
 
